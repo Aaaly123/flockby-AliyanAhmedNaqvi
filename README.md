@@ -9,7 +9,7 @@ This project was developed as part of the Computing Team Test B submission.
 ---
 
 ## 📸 Screenshot
-![Chatbot Screenshot](./screenshots/overview.png)
+![Chatbot Screenshot](./screenshots/overview-img.png)
 
 
 
