@@ -8,6 +8,13 @@ This project was developed as part of the Computing Team Test B submission.
 
 ---
 
+## 📸 Screenshot
+![Chatbot Screenshot](./screenshots/Screenshot 2025-09-04 at 01.32.54.png)
+
+
+
+---
+
 ## Features
 
 - **Greetings & small talk**
