@@ -94,5 +94,3 @@ Frontend will run on:
 **Aliyan Ahmed Naqvi**
 FlockByAliyan Chatbot – 2025
 
-```
-
