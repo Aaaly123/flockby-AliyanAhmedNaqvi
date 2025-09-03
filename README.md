@@ -92,7 +92,7 @@ Frontend will run on:
 
 ## 🎥 Demo
 
-\[Screen recording link here]
+\[https://drive.google.com/file/d/1GAKw5IKNYxx2w8OuOxQC76xgmBlKyhqD/view?usp=sharing]
 
 ---
 
