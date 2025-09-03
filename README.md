@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # FlockByAliyan Chatbot
 
 A sample AI chatbot built for **customer support in an e-commerce industry**.  
@@ -36,7 +36,7 @@ cd flockby-aliyan-chatbot
 ```
 ````
 
-````
+
 
 ### 2. Database Setup
 
