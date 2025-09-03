@@ -8,17 +8,17 @@ This project was developed as part of the Computing Team Test B submission.
 
 ---
 
-## ✨ Features
+## Features
 
-- 👋 **Greetings & small talk**
-- 📦 **Order status checking** (using MySQL database)
-- 🛒 **Product recommendations**
-- ❓ **FAQ support** (refund policy, shipping time, payment methods)
-- 🚫 **Out-of-scope query handling**
+- **Greetings & small talk**
+- **Order status checking** (using MySQL database)
+- **Product recommendations**
+- **FAQ support** (refund policy, shipping time, payment methods)
+- **Out-of-scope query handling**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React (Vite)
 - **Backend**: Node.js + Express
@@ -34,7 +34,7 @@ This project was developed as part of the Computing Team Test B submission.
 git clone https://github.com/YOUR_USERNAME/flockby-aliyan-chatbot.git
 cd flockby-aliyan-chatbot
 ```
-````
+
 
 
 
@@ -66,7 +66,7 @@ node server.js
 ```
 
 Backend will run on:
-👉 `http://localhost:8080`
+ `http://localhost:8080`
 
 ---
 
@@ -79,7 +79,7 @@ npm run dev
 ```
 
 Frontend will run on:
-👉 `http://localhost:5173`
+ `http://localhost:5173`
 
 ---
 
