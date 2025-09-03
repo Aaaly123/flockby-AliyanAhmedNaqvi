@@ -1,12 +1,4 @@
-Got it 👍 Let me make this super clear for you.
 
-You only need to copy the **text between the gray box** I gave earlier (that starts with `# FlockByAliyan Chatbot`).
-
-Here’s exactly what you should copy 👇
-
----
-
-# 📋 Copy This into README.md
 
 ````markdown
 # FlockByAliyan Chatbot
@@ -102,14 +94,3 @@ FlockByAliyan Chatbot – 2025
 
 ```
 
----
-
-📌 Steps:
-1. Create a file in your project root → `README.md`
-2. Paste the above content inside.
-3. Save it.
-
----
-
-Do you also want me to now give you the **`database.sql` file content** (so you’ll have both missing files ready to copy)?
-```
